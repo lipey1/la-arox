@@ -11,6 +11,8 @@ The script can be slow at times; this is because the script's focus is on usabil
 
 ## ⚠️ IMPORTANT: Execution Location
 
+**For the script to differentiate which slot should perform AUTO TITUS, you must keep the slot in Eastern Luminant and the slot description must be AUTO TITUS.**
+
 **You MUST execute this script while standing near the Titus dungeon portal.**  
 The script verifies your distance to the portal destination (`-6881, 336, 2829`). If you're more than 100 studs away, it will show an error, stop all functions, and spam the exit button. This ensures the teleportation feature works correctly.
 
@@ -155,6 +157,14 @@ local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/YOUR_WEBHOOK_URL"
 Special thanks to **AROX SCRIPT** for creating the main script that made this automation possible.
 If you have any questions or would like to get in touch, talk to me on Discord (lipegte)
 Or via email (felipeestrela2006@gmail.com)
+
+---
+
+## Images
+
+![Screenshot 1](https://i.imgur.com/9FN1wvS.png)
+
+![Screenshot 2](https://i.imgur.com/aFIi4OV.png)
 
 ---
 
