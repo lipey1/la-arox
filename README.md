@@ -166,6 +166,8 @@ Or via email (felipeestrela2006@gmail.com)
 
 ![Screenshot 2](https://i.imgur.com/aFIi4OV.png)
 
+![Screenshot 3](https://i.imgur.com/2bmPdwo.png)
+
 ---
 
 **Enjoy, stay safe, and good luck in DeepWoken! 🗡️**
